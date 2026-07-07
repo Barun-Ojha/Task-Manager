@@ -1,5 +1,4 @@
 # Task Management REST API
-This is a back-end code repository.  The front-end code repository can be found here: [https://github.com/pgmorgan/task-manager-api-frontend](https://github.com/pgmorgan/task-manager-api-frontend).
 
 This is a full featured Task Management REST API back-end built with Node.js and MongoDB.  Features include:
 
