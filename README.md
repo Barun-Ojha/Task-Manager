@@ -8,12 +8,3 @@ This is a full featured Task Management REST API back-end built with Node.js and
 - Hash encryption of passwords and access management with JWT tokens.  
 - Restricted user access to CRUD operations based on JWT tokens.
 
-### FRONTEND SCREENSHOTS
-
-##### Screenshot #1
-
-![Screenshot of Task Tracker](img/Screenshot-TaskTracker-App.png?raw=true "Screenshot of TaskTracker App")
-
-##### Screenshot #2
-	
-![Screenshot of Task Tracker](img/Screenshot-TaskTracker-App-2.png?raw=true "Screenshot of TaskTracker App")
